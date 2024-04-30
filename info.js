@@ -52,7 +52,7 @@ module.exports = {
     INFO: process.env.INFO || 'aqua-N4;morro_theghost7;https://i.imgur.com/5kDbyLs.jpeg',
     URL: process.env.URL || 'https://t.me/naziupdates',
     SUDO: process.env.SUDO || '8801975492880',
-    AUTO_STATUS_VIEW: process.env.AUTO_STATUS_VIEW || 'true',
+    AUTO_STATUS_VIEW: process.env.AUTO_STATUS_VIEW || 'false',
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || 'true',
     MODE: process.env.MODE || 'public',
     STICKER_DATA: process.env.STICKER_DATA || '️ᴍᴀᴅᴇ ʙʏ; AQUA_N4',
