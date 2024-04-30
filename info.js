@@ -48,14 +48,14 @@ if (fs.existsSync('config.env')) {
 module.exports = {
     SESSION_ID: process.env.SESSION_ID || '',
     HANDLERS: process.env.HANDLERS || '.',
-    IG: process.env.IG || 'https://instagram.com/sla.sher_/',
-    INFO: process.env.INFO || 'ɪʀɪꜱ-ᴍᴅ;VᴇɴᴏxSᴇʀ;https://imgur.com/D60nScQ.jpg',
-    URL: process.env.URL || 'https://whatsapp.com/channel/0029VaHt1710AgWB1B0Lkg0Q',
+    IG: process.env.IG || 'https://www.instagram.com/morro_ghost7/',
+    INFO: process.env.INFO || 'aqua-N4;morro_theghost7;https://i.imgur.com/5kDbyLs.jpeg',
+    URL: process.env.URL || 'https://t.me/naziupdates',
     SUDO: process.env.SUDO || '8801975492880',
     AUTO_STATUS_VIEW: process.env.AUTO_STATUS_VIEW || 'true',
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || 'true',
     MODE: process.env.MODE || 'public',
-    STICKER_DATA: process.env.STICKER_DATA || '️ᴍᴀᴅᴇ ʙʏ; ɪʀɪꜱ-ᴍᴅ',
+    STICKER_DATA: process.env.STICKER_DATA || '️ᴍᴀᴅᴇ ʙʏ; AQUA_N4',
     HAPP: process.env.HAPP || '', // ɪꜰ ɴᴏᴛ ʜᴇʀᴏᴋᴜ, ᴛʜᴇɴ ᴋᴇᴇᴘ ɪᴛ ʙʟᴀɴᴋᴇᴅ
     HKEY: process.env.HKEY || '', // ɪꜰ ɴᴏᴛ ʜᴇʀᴏᴋᴜ, ᴛʜᴇɴ ᴋᴇᴇᴘ ɪᴛ ʙʟᴀɴᴋᴇᴅ
     DATABASE_URL: DATABASE_URL
